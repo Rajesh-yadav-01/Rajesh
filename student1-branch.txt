@@ -1,1 +1,4 @@
 "Enter name: Rajesh" 
+"Enter emaill : 2428036@saec.ac.in"
+"Enter DOB : 18-11-2006"
+"Enter langauage : Telugu"
