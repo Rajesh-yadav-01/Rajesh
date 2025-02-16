@@ -1,3 +1,2 @@
-"Enter name : Rajesh" 
-"Roll no: 2428036" 
-"pushpa" 
+"Enter name: Rajesh" 
+"Enter roll no : 2428036" 
